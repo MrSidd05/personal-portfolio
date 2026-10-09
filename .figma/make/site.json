@@ -1,0 +1,10 @@
+{
+  "description": "A personalized scrollable portfolio website showcasing professional resume details with integrated LinkedIn and GitHub links for seamless networking.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
