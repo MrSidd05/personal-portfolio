@@ -223,14 +223,14 @@ export default function App() {
                 href="/assets/Ishika_Dubey_Resume.pdf"
                 download
               >
-                Download résumé
+                Download resume
               </a>
             </div>
           </div>
           <div className="portrait-wrap">
             <div className="portrait-frame">
               <img
-                src="src\ishika-dubey.png"
+                src="/assets/ishika-dubey.jpeg"
                 alt="Ishika Dubey, Lead Software Engineer"
               />
             </div>
