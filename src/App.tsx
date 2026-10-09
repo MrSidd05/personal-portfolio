@@ -230,7 +230,7 @@ export default function App() {
           <div className="portrait-wrap">
             <div className="portrait-frame">
               <img
-                src="/assets/ishika-dubey.jpeg"
+                src="public\assets\ishika-dubey.jpeg"
                 alt="Ishika Dubey, Lead Software Engineer"
               />
             </div>
